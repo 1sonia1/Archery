@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Sonia Tinaz-->
+<!--Jan. 21, 2020-->
+<!--Archery.fxml-->
+<?import javafx.scene.layout.Pane?>
+
+	
+<Pane xmlns:fx="http://javafx.com/fxml/1" fx:controller="archeryGame.ArcheryController">
+	
+</Pane>
